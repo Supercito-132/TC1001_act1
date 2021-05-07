@@ -1,0 +1,25 @@
+paint
+
+commit 0848484e6d4fba5929a47060a3a92d8732bd6b01 (HEAD -> master, origin/master, origin/HEAD)
+Merge: 62b9393 ac85a11
+Author: ASuarez18 <suga.gonza.18@gmail.com>
+Date:   Thu May 6 11:46:19 2021 -0500
+
+    Se agrego la funcion de un nuevo color y funcion de circulo
+
+commit 62b93932edc3030d063e5300905b394836858529 (A01424529)
+Author: ASuarez18 <suga.gonza.18@gmail.com>
+Date:   Thu May 6 11:25:18 2021 -0500
+
+    Modificacion 1
+
+commit ac85a110a9259c7dc5307088544e43f4b480013c
+Author: Supercito-132 <A01423225@itesm.mx>
+Date:   Thu May 6 10:52:43 2021 -0500
+
+    Se agregó la función para dibujar triangulos y rectangulos en el código
+
+commit 15add4eee0f6e1ee08bda8cec4886f3bde7980fd
+Author: Supercito-132 <A01423225@itesm.mx>
+Date:   Thu May 6 10:05:04 2021 -0500
+
